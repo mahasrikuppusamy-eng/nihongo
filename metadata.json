@@ -1,0 +1,6 @@
+{
+  "name": "NIHONGO AI LAB - 日本語 AI ラボ",
+  "description": "Discover Japan Through Language & Culture: interactive games, Hiragana dojo, Kanji master, culture quizzes, Japan explorer, mystery decoders, and real-time expo leaderboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
